@@ -1,7 +1,11 @@
-This project aims to provide easy launcher for windows and Linux of PattyPan
+This project is a distribution of [PattyPan](https://commons.wikimedia.org/wiki/Commons:Pattypan) with easy launcher for Windows and Linux.
+
+The distribution currently include version *18.02* of [PattyPan](https://commons.wikimedia.org/wiki/Commons:Pattypan):
+* The PattyPan Licence: (LICENSE.md)[https://github.com/yarl/pattypan/blob/master/LICENSE]
+* The PattyPan contributors: [List of commits](https://github.com/yarl/pattypan/commits/master)
 
 # Usage
 
-Download the launchers from [releases page](https://github.com/PierreSelim/pattypan-launcher/releases) and copy the pattypan jar in the directory of the launchers
+Download the launchers from [releases page](https://github.com/PierreSelim/pattypan-launcher/releases)
 * On windows double click on the `.bat` file
 * On linux launch the `.sh`
