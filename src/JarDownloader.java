@@ -7,7 +7,7 @@ import java.nio.file.Files;
 
 class JarDownloader {
 
-    private static String DEFAULT_URL = "https://github.com/yarl/pattypan/releases/download/v18.02/pattypan.jar";
+    private static String DEFAULT_URL = "https://github.com/yarl/pattypan/releases/download/v19.06/pattypan.jar";
 
     public static void main(String ... argv) {
         String pattypanURL = null;
